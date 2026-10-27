@@ -1,1 +1,1 @@
-{"name": "Band Manager", "short_name": "Band Manager", "start_url": "./", "display": "standalone", "background_color": "#101113", "theme_color": "#101113", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
+{"name": "Band Manager Pixel Edition", "short_name": "Band Manager", "start_url": "./", "display": "standalone", "background_color": "#252347", "theme_color": "#252347", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
